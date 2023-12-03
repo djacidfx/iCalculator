@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="#eeeeee" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:textSize="20sp" android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center" android:background="#da5f6a" android:padding="@dimen/_15sdp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/title_dialog"/>
+    <TextView android:textSize="17sp" android:textColor="#212121" android:gravity="center" android:layout_gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_30sdp" android:layout_marginBottom="@dimen/_20sdp" android:text="@string/content"/>
+    <RatingBar android:layout_gravity="center" android:id="@+id/ratingBar" android:paddingBottom="@dimen/_20sdp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_10sdp" android:layout_marginRight="@dimen/_10sdp" android:max="5" android:numStars="5" android:stepSize="1"/>
+    <LinearLayout android:gravity="right|center_vertical|center_horizontal|center" android:orientation="horizontal" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <Button android:textSize="16sp" android:textColor="@android:color/black" android:id="@+id/btn_ok" android:background="@drawable/bgr_btn_dialog" android:padding="@dimen/_10sdp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/_10sdp" android:text="OK"/>
+        <Button android:textSize="16sp" android:textColor="@android:color/black" android:id="@+id/btn_not_now" android:background="@drawable/bgr_btn_dialog" android:padding="@dimen/_10sdp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/_10sdp" android:text="Not Now"/>
+    </LinearLayout>
+</LinearLayout>

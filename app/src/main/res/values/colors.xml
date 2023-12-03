@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorPrimary">#ff000000</color>
+    <color name="colorPrimaryDark">#ff000000</color>
+
+
+    <color name="toolbar">#1E1A2C</color>
+    <color name="text_color">#ffffff</color>
+    <color name="theamcolor">#fc0029</color>
+
+
+    <color name="black_face">#333333</color>
+    <color name="black_face_gray">#808080</color>
+    <color name="black_face_n">#999999</color>
+    <color name="black_face_wite">#fff</color>
+    <color name="black_face_yello">#e68a00</color>
+
+    <color name="error_color_material">#f4511e</color>
+
+</resources>
