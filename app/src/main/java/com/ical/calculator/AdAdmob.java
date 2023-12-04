@@ -26,7 +26,7 @@ import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback;
 
 public class AdAdmob {
 
-    String BannerAdID = "/6499/example/banner", FullscreenAdID = "/6499/example/interstitial";
+    String BannerAdID = "ca-app-pub-3940256099942544/9214589741", FullscreenAdID = "ca-app-pub-3940256099942544/1033173712";
 
     ProgressDialog ProgressDialog;
 
