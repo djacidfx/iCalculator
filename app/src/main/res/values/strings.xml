@@ -1,9 +1,9 @@
 <resources>
 
 
-    <string name="app_name">ICalculator</string>
+    <string name="app_name">Calculator</string>
     <string name="content">How much do you love our app?</string>
-    <string name="policy">https://www.google.com</string>
+    <string name="policy">https://mywild.work/privacy</string>
     <string name="title_dialog">RATE THIS APP</string>
 
 </resources>
